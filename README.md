@@ -9,21 +9,21 @@ In this project, as part of the Udacity Front-End Web Development nanodegree, I 
 	* Clone: https://github.com/karashirl/frontend-nanodegree-jasmine-feed-reader-testing.git
 2. Open index.html and scroll down to see the test results below the content of the page.
 
-## Adding Additional Tests
+### Adding Additional Tests
 
 If you would like to add any tests, open jasmine/spec/feedreader.js and add them to this file.
 
-### Libraries & Frameworks Used
+## Libraries & Frameworks Used
 
 * [Jasmine](http://jasmine.github.io)
 * [jQuery](http://jquery.com)
 
-### Authors
+## Authors
 
 * [**Kara Anderson**](https://github.com/karashirl) - _Test Suite_
 * [**Udacity**](https://github.com/udacity) - _Application_
 
-### References
+## References
 
 * http://jasmine.github.io/2.0/introduction.html
 * https://discussions.udacity.com/c/nd001-feed-reader-testing
